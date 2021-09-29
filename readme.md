@@ -1,4 +1,5 @@
 <h2> Como usar </h2>
+
 <div class="list-group">
     <ul>
         <li>Rota de pesquisa: <strong class="text-info"> /rastreio/{tracking-code} </strong></li>
@@ -8,6 +9,4 @@
    
 </div>
 
-</h6>
-    Futuramente uma URL própria...
-</h6>
+<h3>LEMBRE-SE DE RODAR O COMPOSER UPDATE LOGO APÓS BAIXAR O PROJETO</h3>
