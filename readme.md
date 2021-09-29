@@ -1,4 +1,4 @@
-<h2> Como usar 😎 </h2>
+<h2> Como usar </h2>
 <div class="list-group">
     <ul>
         <li>Rota de pesquisa: <strong class="text-info"> /rastreio/{tracking-code} </strong></li>
